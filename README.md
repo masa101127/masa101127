@@ -16,3 +16,8 @@ AI エージェント（Claude Code）と一緒に開発しています。休日
 #### 🧰 Stack
 
 TypeScript · React · Next.js · Electron · Cloudflare Workers / D1 · Drizzle · Vitest · Playwright
+
+#### ✍️ Writing
+
+- [ターミナルで Claude Code を何本も走らせるのやめませんか？](https://zenn.dev/massan3477/articles/woodlot-intro)（Zenn）
+- Zenn: https://zenn.dev/massan3477
